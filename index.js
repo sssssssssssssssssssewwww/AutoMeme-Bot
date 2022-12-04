@@ -46,4 +46,4 @@ client.on("message", message => {
     }
 });
 
-client.login("YOUR BOT TOKEN");
+client.login("MTA0ODI3NTk2MzYzODcyMjYxMA.G26KXR.ZDfq_58AE_PKM1NX9QmXKz46KsKFSdlxrLJWPQ");
